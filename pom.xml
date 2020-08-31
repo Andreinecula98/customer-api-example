@@ -11,7 +11,7 @@
 	<groupId>com.smartacademy</groupId>
 	<artifactId>customer-api-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customer-api-exampl</name>
+	<name>customer-api-example</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
