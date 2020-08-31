@@ -16,7 +16,6 @@ import java.util.Optional;
 
 public interface Controller {
 
-    //Testing another push
     @GetMapping("/getCustomer")
     GetCustomerResponse getCustomers(@RequestParam Optional<Integer> customerId,
                                      @RequestParam Optional<String> phoneNumber,
