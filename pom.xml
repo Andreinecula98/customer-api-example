@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.smartacademy</groupId>
-	<artifactId>mvc-pattern2</artifactId>
+	<artifactId>customer-api-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>customer-api-example</name>
 	<description>Demo project for Spring Boot</description>
